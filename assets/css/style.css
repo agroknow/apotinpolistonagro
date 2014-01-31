@@ -303,6 +303,10 @@ body.color-6 #footer {
 	margin-left: -12px;
 }
 
+.change_language {
+	color:red;
+}
+
 .about_title {
 	color:black;
 }
@@ -475,8 +479,7 @@ hr.grey {
 }
 
 #supporters {
-	padding: 170px 0px;
-
+/* 	padding: 170px 0px; */
 }
 
 .supporters {
