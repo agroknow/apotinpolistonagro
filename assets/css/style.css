@@ -487,6 +487,10 @@ hr.grey {
 	padding-bottom: 100px;
 }
 
+.supporters h3 {
+	font-style: italic;
+}
+
 .white_on_green {
 	color:black;
 }
